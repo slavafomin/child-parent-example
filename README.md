@@ -1,6 +1,10 @@
-# ChildParentExample
+# Updating value in parent component from child one causes ExpressionChangedAfterItHasBeenCheckedError in Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.1.
+This is example for StackOverflow question:
+
+- https://stackoverflow.com/q/44655745/1056679
+
+---
 
 ## Development server
 
