@@ -7,7 +7,7 @@ export class TitleService {
 
   private title = '';
 
-  private titleChangeEmitter = new EventEmitter<string>();
+  private titleChangeEmitter = new EventEmitter<string>(true);
 
 
   getTitle () {
